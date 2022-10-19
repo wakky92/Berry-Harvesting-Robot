@@ -1,12 +1,3 @@
-/*
-  Team Id             : eYRC-HB#934
-  Author List         : Nikunj Kumar Agarwal, Komal Bagai, Dheeraj Khanna
-  Filename            : eYRC_#934
-  Theme               : Harvester Bot
-  Functions           :
-  Global Variables    :
-*/
-
 int tempx = 0, tempy = 0, temp2 = 0;                                      //dynamic(changeable) values of adjacent coordinates of trees.
 int bkl = 0, i = 0;
 char papa;                                                                
